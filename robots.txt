@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /olympiad-quizzer-net/quiz
+Disallow: /olympiad-quizzer-net/quiz/
+Disallow: /olympiad-quizzer-net/settings
